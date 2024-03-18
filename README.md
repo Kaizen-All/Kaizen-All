@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaizen-All
+- 👋 Hi, I’m @Kai_zen
 - 👀 I’m interested in VMware Cloud, Linux, and Windows servers 
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on 
