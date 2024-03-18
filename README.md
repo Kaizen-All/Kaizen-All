@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kai_zen
-- 👀 I’m interested in VMware Cloud, Linux, and Windows servers 
+- 👀 I’m interested in MYSQL
+ Linux,Vmware  and Windows servers 
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me-ping
