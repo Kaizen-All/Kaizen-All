@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kai_zen
+- 👋 Hi, I’m shaiksha
 - 👀 I’m interested in MYSQL, 
  Linux,Vmware  and Windows servers 
 - 🌱 I’m currently learning
