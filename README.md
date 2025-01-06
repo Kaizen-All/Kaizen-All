@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shaiksha
-- 👀 I’m interested in MYSQL, 
- Linux,Vmware  and Windows servers 
+- 👀 I’m interested in PYTHON,MYSQL, 
+  Vmware  and Windows servers 
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me-ping
